@@ -1,0 +1,67 @@
+.sidebar1 {
+    /* padding: 10px 0px 20px 0px;
+  background-color: rgba(0, 0, 0, 0.678);
+  height: 100vh;
+  color: white;
+  text-align: left;
+  position: fixed; */
+
+  position: fixed;
+width: 310px;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background-image: linear-gradient(to top, rgba(6, 5, 5, 0.885), rgba(110,98,89,1));
+
+}
+
+.user1 {
+  display: flex;
+  border-bottom: 2px solid white;
+  padding-bottom: 20px;
+  align-items: center;
+  color: white;
+  
+}
+
+.userName1 p {
+  margin: 0px;
+  color: black;
+
+}
+
+.userName11 {
+  margin: 25px 20px;
+}
+
+.image1 {
+  margin: 10px 0px 0px 20px;
+}
+.image1 img {
+  width: 80px;
+}
+
+.menu1{
+    padding-top: 20px;
+    
+}
+.link {
+  display: list-item;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 40px 50px;
+  list-style: none;
+}
+
+.logout1{
+     
+    /* margin-top: 380px; */
+    margin-left: 65px;
+    
+    
+
+}
+

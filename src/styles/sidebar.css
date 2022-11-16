@@ -1,0 +1,66 @@
+.sidebar {
+  /* padding: 10px 0px 30px 0px;
+background-color: peachpuff;
+height: 100vh;
+color: rgb(0, 0, 0);
+text-align: left;
+position: fixed; */
+
+position: fixed;
+width: 310px;
+top: 0;
+left: 0;
+bottom: 0;
+background: peachpuff;
+
+}
+
+.user {
+display: flex;
+border-bottom: 2px solid rgb(0, 0, 0);
+padding-bottom: 20px;
+align-items: center;
+color: white;
+}
+
+.userName p {
+margin: 0px;
+color: black;
+
+}
+
+.userName {
+margin: 25px 20px;
+
+}
+
+.image {
+margin: 10px 0px 0px 20px;
+}
+.image img {
+width: 80px;
+}
+
+.menu{
+  padding-top: 20px;
+}
+.link {
+display: list-item;
+text-decoration: none;
+color: rgb(0, 0, 0);
+font-size: 1.2rem;
+font-weight: 600;
+margin: 0px 50px;
+list-style: none;
+}
+
+.logout1{
+   
+margin-top: 150px;
+
+
+
+
+}
+
+
